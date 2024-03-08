@@ -1,0 +1,6 @@
+# .gitignore
+
+# Other entries...
+
+# Ignore the .env file
+.env
